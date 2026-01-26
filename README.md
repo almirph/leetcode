@@ -31,5 +31,7 @@ This repository is a collection of my algorithmic problem-solving efforts using 
   https://leetcode.com/problems/memoize-ii/
 - **2624 – Snail Traversal**  
   https://leetcode.com/problems/snail-traversal/
+- **2627 – Is Object Empty**  
+  https://leetcode.com/problems/is-object-empty
 - **3801 – Minimum Cost to Merge Sorted Lists**  
   https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/
