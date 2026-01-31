@@ -2,7 +2,8 @@
 
 This repository is a collection of my algorithmic problem-solving efforts using **JavaScript (Node.js)**. I use this space to track my progress, refine my understanding of data structures, and practice writing clean, efficient JS code.
 
-
+- **744 – Find Smallest Letter Greater Than Target**  
+  https://leetcode.com/problems/find-smallest-letter-greater-than-target
 - **1143 – Longest Common Subsequence**  
   https://leetcode.com/problems/longest-common-subsequence/
 - **1200 – Minimum Absolute Difference**  
