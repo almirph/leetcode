@@ -34,6 +34,8 @@ This repository is a collection of my algorithmic problem-solving efforts using 
   https://leetcode.com/problems/snail-traversal/
 - **2627 – Is Object Empty**  
   https://leetcode.com/problems/is-object-empty
+- **2648 – Generate Fibonacci Sequence With Generator**  
+  https://leetcode.com/problems/generate-fibonacci-sequence/
 - **3751 – Total Waviness of Numbers in Range I**  
  https://leetcode.com/problems/total-waviness-of-numbers-in-range-i
 - **3801 – Minimum Cost to Merge Sorted Lists**  
