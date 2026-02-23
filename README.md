@@ -2,8 +2,12 @@
 
 This repository is a collection of my algorithmic problem-solving efforts using **JavaScript (Node.js)**. I use this space to track my progress, refine my understanding of data structures, and practice writing clean, efficient JS code.
 
+- **693 – Binary Number with Alternating Bits**  
+  https://leetcode.com/problems/binary-number-with-alternating-bits
 - **744 – Find Smallest Letter Greater Than Target**  
   https://leetcode.com/problems/find-smallest-letter-greater-than-target
+- **868 – Binary Gap**  
+  https://leetcode.com/problems/binary-gap
 - **1143 – Longest Common Subsequence**  
   https://leetcode.com/problems/longest-common-subsequence/
 - **1200 – Minimum Absolute Difference**  
@@ -36,6 +40,10 @@ This repository is a collection of my algorithmic problem-solving efforts using 
   https://leetcode.com/problems/is-object-empty
 - **2648 – Generate Fibonacci Sequence With Generator**  
   https://leetcode.com/problems/generate-fibonacci-sequence/
+- **2649 – Nested Array Generator**  
+  https://leetcode.com/problems/nested-array-generator
+- **2655 – Counter II**  
+  https://leetcode.com/problems/counter-ii
 - **3010 – Divide an Array Into Subarrays With Minimum Cost I**  
   https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i
 - **3751 – Total Waviness of Numbers in Range I**  
